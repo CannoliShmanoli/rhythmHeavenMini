@@ -63,3 +63,18 @@ WARNING: If you try to run a remix with custom games, please make sure to have t
 
 
 Happy Making!
+
+
+    Credits
+
+    Nintendo — Rhythm Heaven is owned by Nintendo.
+
+    Tickflow Format — Based on the system used in Rhythm Heaven Megamix.
+
+    Original Rhythm Engine — Made by minenice55.
+
+    Scratch by MIT — Built using the Scratch platform.
+
+    Rhythm Heaven Mini by CannoliShmanoli — A fan-made project designed for easier reading, writing, and playing.
+
+    This is a non-commercial fan project made out of love for Rhythm Heaven. Please support the official games!
