@@ -46,10 +46,16 @@ Template (AGBtemplate)
 ------------
 
 To add custom cues, that don't just broadcast the cue name in the minitickflow list, 
+
 Step 1: Go to the listcontroller object.
+
 Step 2: Go to the "define parse event" block
+
 Step 3: Add "if (item (1) of (splitstroutput) = [cue name] then"
+
 Step 4: Add the code you want it to run
+
+
 Step 5 (Optional): For adding other things to the cue, add "if (item (2) of (splitstroutput) = [other] then" inside of it.
 
 
