@@ -83,6 +83,6 @@ Happy Making!
 
     Rhythm Heaven Mini by CannoliShmanoli — A fan-made project designed for easier reading, writing, and playing.
 
-    This is a non-commercial fan project made out of love for Rhythm Heaven. Please support the official games!
+    This is a non-commercial fan project made out of love for Rhythm Heaven. Please support the official games, and when it comes out, go play Rhythm Heaven Groove if you can!
     
     Placeholder Rockers Sprites — Temmie Chang
